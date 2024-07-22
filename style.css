@@ -460,31 +460,54 @@
   }
   
   /* mobile phone*/
-  @media (max-width: 576px) {
-    html {
-      font-size: 60%;
-    }
-  
-    .simply-countdown > .simply-section {
-      padding: 45px;
-      margin: 3px;
-    }
-  
-    .timeline li .timeline-image {
-      width: 80px;
-      height: 80px;
-    }
-  
-    .timeline li .timeline-panel {
-      width: 65%;
-      transform: translateX(-20px);
-    }
-  
-    .timeline li .timeline-panel::before {
-      top: 30px;
-    }
-  
-    .timeline li .timeline-panel::after {
-      top: 31px;
-    }
+@media (max-width: 576px) {
+  html {
+    font-size: 60%;
   }
+
+  .simply-countdown > .simply-section {
+    padding: 45px;
+    margin: 3px;
+  }
+
+  .timeline li .timeline-image {
+    width: 80px;
+    height: 80px;
+  }
+
+  .timeline li .timeline-panel {
+    width: 65%;
+    transform: translateX(-20px);
+  }
+
+  .timeline li .timeline-panel::before {
+    top: 30px;
+  }
+
+  .timeline li .timeline-panel::after {
+    top: 31px;
+  }
+
+  /* Time Remaining Section */
+  .reminder-container h2 {
+    font-size: 1.5rem;
+  }
+
+  .reminder {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .reminder div {
+    margin-bottom: 10px;
+  }
+
+  .reminder span {
+    font-size: 2rem;
+  }
+
+  .reminder div div {
+    font-size: 1rem;
+  }
+}
