@@ -1,15 +1,14 @@
 # 💍 Marriage-Website-Ver2
 
 ## 📋 Description
-A second version of the Marriage Website by Dominick Grodkowski, focused on managing marriage event registrations with improved features and design.
+This is the second version of the Marriage Website, created by Dominick Grodkowski. It is designed to streamline marriage event registrations with enhanced features and a more refined design. The website also incorporates improved functionality and multimedia content.
+
+You can visit the live version of the website here: [http://dominickandaleenasaidyes.de/](http://dominickandaleenasaidyes.de/)
 
 ## 🌟 Features
-- 📱 Responsive design using HTML, CSS, and JavaScript
-- 🎥 Video content related to the event
+- 📱 **Responsive Design**: The website is optimized for various devices and screen sizes using HTML, CSS, and JavaScript.
+- 🎥 **Event Videos**: Videos related to the marriage event are integrated into the website to provide a richer user experience.
+- 🌐 **Cross-browser Compatibility**: The website supports all major browsers for a consistent user experience.
 
-## 📂 File Structure
-- **img/**: Images used in the website
-- **video/**: Video files related to the event
-- **index.html**: Homepage of the website
-- **script.js**: JavaScript functions
-- **style.css**: CSS stylesheets
+
+
